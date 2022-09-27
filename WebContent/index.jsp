@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Demo</title>
 </head>
-<body bgcolor="gold">
+<body>
 <h1>Hello! Welcome to DevOps!</h1>
 <div align="center">
 <form name="login" action="home.jsp" method="get">
